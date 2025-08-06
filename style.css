@@ -145,8 +145,8 @@ section {
   width: 100%;
   padding: 5px;
   border-radius: 10px;
-  border: 1px solid #384773;
-  background-color: #384773;
+  border: 1px solid #ffbe9e;
+  background-color: #ffbe9e;
   -webkit-animation: shadow-drop-2-center 0.4s
     cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
   animation: shadow-drop-2-center 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
@@ -159,7 +159,7 @@ table {
 }
 
 td {
-  border: 3px solid#384773;
+  border: 3px solid#FFBE9E;
   border-bottom: none;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -174,7 +174,7 @@ td {
 }
 
 th {
-  border: 3px solid #384773;
+  border: 3px solid #ffbe9e;
   border-top: none;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
@@ -213,7 +213,7 @@ th {
 }
 
 .bienvenida .card {
-  border: 5px ridge #405785;
+  border: 5px ridge #f6d7c2;
 }
 
 .bienvenida h5 {
@@ -418,15 +418,15 @@ th {
   padding: 10px 20px;
   background: linear-gradient(
     180deg,
-    /* Oro claro */ #96b1d5,
-    /* Brillo dorado */ #96b1d5,
-    /* Oro claro */ #56738c,
-    /* Oro medio */ #405785
+    /* Oro claro */ #ffbe9e,
+    /* Brillo dorado */ #ffbe9e,
+    /* Oro claro */ #f6d7c2,
+    /* Oro medio */ #f6d7c2
   );
   position: relative;
   border-radius: 10px;
   font-size: 15px;
-  color: #ffffff;
+  color: #000000;
   text-align: center;
 }
 
@@ -445,7 +445,7 @@ h5 {
   position: absolute;
   width: 6px;
   height: 100%;
-  background: #405785;
+  background: #f6d7c2;
   left: 15%;
   top: 0;
 
@@ -493,7 +493,7 @@ h5 {
   z-index: 1;
   border-top: 15px solid transparent;
   border-bottom: 15px solid transparent;
-  border-right: 15px solid #405785;
+  border-right: 15px solid #f6d7c2;
   left: -15px;
 }
 
@@ -503,15 +503,15 @@ h5 {
   padding: 5%;
   background: linear-gradient(
     60deg,
-    #bf7839,
-    /* Dorado oscuro */ #bf8c4e,
-    /* Bronce */ #d9af62,
-    /* Oro medio */ #f2dc99,
-    /* Oro claro */ #f2d680,
-    /* Brillo dorado */ #f2dc99,
-    /* Oro claro */ #d9af62,
-    /* Oro medio */ #bf8c4e,
-    /* Bronce */ #bf7839 /* Dorado oscuro */
+    #ffbe9e,
+    /* Dorado oscuro */ #ffbe9e,
+    /* Bronce */ #f6d7c2,
+    /* Oro medio */ #ffbe9e,
+    /* Oro claro */ #fee8db,
+    /* Brillo dorado */ #fee8db,
+    /* Oro claro */ #f6d7c2,
+    /* Oro medio */ #f6d7c2,
+    /* Bronce */ #f6d7c2 /* Dorado oscuro */
   );
   background-size: 400% 400%;
   margin-top: 10%;
@@ -565,7 +565,7 @@ h6 {
   margin-top: 15%;
   width: 100%;
 
-  color: #ffffff;
+  color: #000000;
 
   view-timeline-name: --container7;
   view-timeline-axis: block;
@@ -576,13 +576,13 @@ h6 {
 .ubicaciones h5 {
   font-family: "Great Vibes", cursive;
   font-size: 40px;
-  color: #ffffff;
+  color: #000000;
 }
 
 .ubicaciones p {
   font-family: "Times New Roman", Times, serif;
   font-size: 18px;
-  color: #ffffff;
+  color: #000000;
 }
 
 .ubicaciones h6 {
@@ -631,22 +631,22 @@ h6 {
   margin: 0 auto;
   background: linear-gradient(
     60deg,
-    #384773,
-    /* Dorado oscuro */ #384773,
-    /* Bronce */ #405785,
-    /* Oro medio */ #7e93b2,
-    /* Oro claro */ #96b1d5,
-    /* Brillo dorado */ #96b1d5,
-    /* Oro claro */ #56738c,
-    /* Oro medio */ #405785,
-    /* Bronce */ #405785 /* Dorado oscuro */
+    #ffbe9e,
+    /* Dorado oscuro */ #ffbe9e,
+    /* Bronce */ #f6d7c2,
+    /* Oro medio */ #ffbe9e,
+    /* Oro claro */ #fee8db,
+    /* Brillo dorado */ #fee8db,
+    /* Oro claro */ #f6d7c2,
+    /* Oro medio */ #f6d7c2,
+    /* Bronce */ #f6d7c2 /* Dorado oscuro */
   );
   background-size: 400% 400%;
   animation: goldShine 6s infinite linear;
   width: 0%;
   height: 250px;
   margin-bottom: 10%;
-  border: 3px ridge #021e73;
+  border: 3px ridge #f6d7c2;
 
   -webkit-animation: shadow-drop-2-center 0.4s
     cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
@@ -682,15 +682,15 @@ h6 {
   text-align: center;
   background: linear-gradient(
     60deg,
-    #bf7839,
-    /* Dorado oscuro */ #bf8c4e,
-    /* Bronce */ #d9af62,
-    /* Oro medio */ #f2dc99,
-    /* Oro claro */ #f2d680,
-    /* Brillo dorado */ #f2dc99,
-    /* Oro claro */ #d9af62,
-    /* Oro medio */ #bf8c4e,
-    /* Bronce */ #bf7839 /* Dorado oscuro */
+    #ffbe9e,
+    /* Dorado oscuro */ #ffbe9e,
+    /* Bronce */ #f6d7c2,
+    /* Oro medio */ #ffbe9e,
+    /* Oro claro */ #fee8db,
+    /* Brillo dorado */ #fee8db,
+    /* Oro claro */ #f6d7c2,
+    /* Oro medio */ #f6d7c2,
+    /* Bronce */ #f6d7c2 /* Dorado oscuro */
   );
   background-size: 400% 400%;
   padding: 5%;
